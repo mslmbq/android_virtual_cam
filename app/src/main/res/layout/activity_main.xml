@@ -108,5 +108,22 @@
             </TableRow>
 
         </TableLayout>
+
+        <EditText
+            android:id="@+id/rtsp_url_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="Enter RTSP URL (e.g., rtsp://...)"
+            android:inputType="textUri" />
+
+        <Button
+            android:id="@+id/save_rtsp_url_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="Save RTSP URL" />
+
     </LinearLayout>
 </ScrollView>
