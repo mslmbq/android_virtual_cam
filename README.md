@@ -1,10 +1,6 @@
 # android_virtual_cam
 
-[简体中文](./README.md) | [繁體中文](./README_tc.md) | [English](./README_en.md)
-
 A virtual camera based on Xposed
-
-## DO NOT USE FOR ANY ILLEGAL PURPOSE, YOU NEED TO TAKE ALL RESPONSIBILITY AND CONSEQUENCE!
 
 ## Supported platform
 
